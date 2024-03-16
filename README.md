@@ -1,2 +1,2 @@
-# Bharat-Intern-
+# Bharat-Intern-MRC
 MOVIE RECOMENDATION SYSTEM 
